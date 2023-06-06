@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes/1.0.0": {
+        "runtime": {
+          "07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
