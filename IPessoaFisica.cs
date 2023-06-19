@@ -15,6 +15,7 @@ namespace _07a___SP2___Atividade_1___Desenvolvimento_de_sistema_de_controle_de_c
         // Objetivo: Usado caso queira definir alguma ação.
 
         bool ValidarDataNascimento(DateTime dataNasc);
+        bool ValidarCpf(string cpf);
     
     }
 }

@@ -13,3 +13,18 @@ C:\Users\samanta.melissa\Desktop\07a - SP2 - Atividade 1 - Desenvolvimento de si
 C:\Users\samanta.melissa\Desktop\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\obj\Debug\net6.0\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes.pdb
 C:\Users\samanta.melissa\Desktop\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\obj\Debug\net6.0\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes.genruntimeconfig.cache
 C:\Users\samanta.melissa\Desktop\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\obj\Debug\net6.0\ref\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes.dll
+C:\Users\samanta.melissa\Desktop\Atv1906\ATV1-BACKEND\bin\Debug\net6.0\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes.exe
+C:\Users\samanta.melissa\Desktop\Atv1906\ATV1-BACKEND\bin\Debug\net6.0\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes.deps.json
+C:\Users\samanta.melissa\Desktop\Atv1906\ATV1-BACKEND\bin\Debug\net6.0\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes.runtimeconfig.json
+C:\Users\samanta.melissa\Desktop\Atv1906\ATV1-BACKEND\bin\Debug\net6.0\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes.dll
+C:\Users\samanta.melissa\Desktop\Atv1906\ATV1-BACKEND\bin\Debug\net6.0\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes.pdb
+C:\Users\samanta.melissa\Desktop\Atv1906\ATV1-BACKEND\obj\Debug\net6.0\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes.csproj.AssemblyReference.cache
+C:\Users\samanta.melissa\Desktop\Atv1906\ATV1-BACKEND\obj\Debug\net6.0\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samanta.melissa\Desktop\Atv1906\ATV1-BACKEND\obj\Debug\net6.0\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes.AssemblyInfoInputs.cache
+C:\Users\samanta.melissa\Desktop\Atv1906\ATV1-BACKEND\obj\Debug\net6.0\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes.AssemblyInfo.cs
+C:\Users\samanta.melissa\Desktop\Atv1906\ATV1-BACKEND\obj\Debug\net6.0\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes.csproj.CoreCompileInputs.cache
+C:\Users\samanta.melissa\Desktop\Atv1906\ATV1-BACKEND\obj\Debug\net6.0\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes.dll
+C:\Users\samanta.melissa\Desktop\Atv1906\ATV1-BACKEND\obj\Debug\net6.0\refint\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes.dll
+C:\Users\samanta.melissa\Desktop\Atv1906\ATV1-BACKEND\obj\Debug\net6.0\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes.pdb
+C:\Users\samanta.melissa\Desktop\Atv1906\ATV1-BACKEND\obj\Debug\net6.0\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes.genruntimeconfig.cache
+C:\Users\samanta.melissa\Desktop\Atv1906\ATV1-BACKEND\obj\Debug\net6.0\ref\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes.dll

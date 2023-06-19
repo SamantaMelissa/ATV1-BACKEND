@@ -3,8 +3,52 @@
 
 using _07a___SP2___Atividade_1___Desenvolvimento_de_sistema_de_controle_de_clientes;
 
+// Validando o CNPJ da pessoa Juridica:
+PessoaJuridica metodoPj = new PessoaJuridica();
+PessoaJuridica novaPj = new PessoaJuridica();
 
-PessoaFisica pf01 = new PessoaFisica();
+novaPj.Nome = "Bruno Henrique";
+novaPj.Endereco = "Rua XXP";
+novaPj.CNPJ = "12345678111111";
+
+Console.WriteLine(@$"
+    Nome: {novaPj.Nome}
+    Endereço: {novaPj.Endereco}
+    CNPJ: {novaPj.CNPJ}
+    O CNPJ é válido: {metodoPj.ValidarCnpj(novaPj.CNPJ)}
+    "
+);
+
+// Validando o CPF da pessoa Física:
+
+PessoaFisica metodoPf = new PessoaFisica();
+PessoaFisica novaPf = new PessoaFisica();
+
+novaPf.Nome = "Wilson Carvalho";
+novaPf.Endereco = "Rua llll";
+novaPf.dataNascimento = "25/09/1993";
+novaPf.CPF= "01089077700";
+
+if(novaPf.Endereco == ""){
+     Console.WriteLine("ESCREVEEEE O ENDEREÇOOOOOOOOO");
+}else{
+
+Console.WriteLine(@$"
+    Nome: {novaPf.Nome}
+    Endereço: {novaPf.Endereco}
+    Data de nascimento: {novaPf.dataNascimento}
+    CPF:{novaPf.CPF}
+    CPF é valido: {metodoPf.ValidarCpf(novaPf.CPF)}
+");
+}
+
+
+
+
+// -------------------------------------------------------------------------------
+//                          Código da aula passada
+// -------------------------------------------------------------------------------
+// PessoaFisica pf01 = new PessoaFisica();
 
 // bool dataInformada = pf01.ValidarDataNascimento(new DateTime(2010, 01, 01));
 
@@ -16,9 +60,9 @@ PessoaFisica pf01 = new PessoaFisica();
 // }
 
 
-PessoaFisica pf02 = new PessoaFisica();
-pf01.ValidarDataNascimento(new DateTime(2002,06,25));
-pf02.ValidarDataNascimento(new DateTime(1971,03,30));
+// PessoaFisica pf02 = new PessoaFisica();
+// pf01.ValidarDataNascimento(new DateTime(2002,06,25));
+// pf02.ValidarDataNascimento(new DateTime(1971,03,30));
 
 
 // criando uma variável:

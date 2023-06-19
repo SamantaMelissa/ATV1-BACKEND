@@ -7,8 +7,8 @@ namespace _07a___SP2___Atividade_1___Desenvolvimento_de_sistema_de_controle_de_c
 {
     public class Clientes
     {
-        public string Nome {get; set;}
-        public string Endereco {get; set;}
+        public string ?Nome {get; set;}
+        public string ?Endereco {get; set;}
         public float Valor {get; protected set;}
         public float valor_imposto {get; protected set;}
         public float total {get; protected set;}
